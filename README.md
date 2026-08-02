@@ -11,6 +11,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Microservices+Expert;AWS+Cloud+Engineer;Kafka+Event-Driven+Architect;3.5%2B+Years+Experience&center=true&width=500&height=50">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjib199/sanjib199/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## 🧠 About Me
