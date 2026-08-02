@@ -3,6 +3,14 @@
   Sanjib Basak
 </h1>
 
+# Hi 👋, I'm Sanjib Basak
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjib199&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <h3 align="center">
   🚀 Java Backend Developer | Microservices | Spring Boot | REST APIs | Docker | Kubernetes | Jenkins | CI/CD | Kafka | AWS 
 </h3>
