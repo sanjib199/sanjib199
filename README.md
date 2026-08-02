@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Header -->
 <h1 align="center">
-  Sanjib Basak
+  SANJIB BASAK
 </h1>
 
 
