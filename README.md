@@ -36,7 +36,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,sql"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 <img src="https://skillicons.dev/icons?i=sql"/>
 </p>
 
