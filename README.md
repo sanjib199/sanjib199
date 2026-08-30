@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Java Backend Developer | Microservices | Spring Boot | REST APIs | Docker | Kubernetes | Jenkins | CI/CD | Kafka | Redis | AWS 
+  🚀 Java Backend Developer | Spring Boot | Spring Security | Microservices | REST APIs | Docker | JWT | CI/CD | Kafka | Redis | AWS 
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 🧠 About Me
 
-💼 Java Backend Developer with **3.5+ years of experience**  
+💼 Java Backend Developer with **3.6+ years of experience**  
 ⚡ Specialized in **Spring Boot, Microservices & Distributed Systems**  
 🚀 Built **low-latency, scalable, production-grade systems**  
 🔄 Strong in **Event-Driven Architecture (Kafka)**  
@@ -92,6 +92,9 @@
 
 🏅 Designed **high-performance backend systems**  
 🏅 Improved system scalability using **Kafka & Async processing**  
+🏅 **Improved database query performance by** through indexing, normalization, pagination and query optimization. 
+🏅 **Reduced deployment time by** by implementing Jenkins CI/CD automation.
+🏅 **Reduced API response time by** through MySQL query optimization and Redis caching. 
 🏅 Strong understanding of **System Design & Distributed Systems**
 
 ---
@@ -116,7 +119,7 @@
 
 ## 🧩 Fun Fact
 
-💡 I love building **Scalable Backend Systems** and solving **Real-World problems with clean Architecture**
+💡 I love building **Secure, Scalable, Fault-tolerant, and Maintainable Distributed Backend Systems** and solving **Real-World problems with clean Architecture**
 
 ---
 
