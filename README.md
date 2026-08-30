@@ -3,120 +3,130 @@
   SANJIB BASAK
 </h1>
 
+
 <!-- 👀 Profile Views -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjib199&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">
-  🚀 Java Backend Developer | Spring Boot | Microservices | REST APIs | Spring Security | JWT | Kafka | Redis | AWS | Docker | CI/CD
+  🚀 Java Backend Developer | Microservices | Spring Boot | REST APIs | Docker | Kubernetes | Jenkins | CI/CD | Kafka | Redis | AWS 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Spring+Boot+Developer;Microservices+Developer;REST+API+Developer;AWS+Cloud+Engineer;3.6%2B+Years+Experience&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Microservices+Expert;AWS+Cloud+Engineer;Kafka+Event-Driven+Architect;3.5%2B+Years+Experience&center=true&width=500&height=50">
 </p>
+
 
 ---
 
 ## 🧠 About Me
 
-💼 Java Backend Developer with **3.6+ years of experience**
+💼 Java Backend Developer with **3.5+ years of experience**  
+⚡ Specialized in **Spring Boot, Microservices & Distributed Systems**  
+🚀 Built **low-latency, scalable, production-grade systems**  
+🔄 Strong in **Event-Driven Architecture (Kafka)**  
+☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins, CI/CD pipelines**  
 
-⚡ Specialized in **Java, Spring Boot, Spring Security, REST APIs & Microservices**
-
-🚀 Experienced in building **scalable and secure backend applications**
-
-🔐 Strong experience with **JWT Authentication, OAuth 2.0 & Role-Based Access Control**
-
-🔄 Hands-on experience with **Kafka, Redis, MySQL, JPA & Hibernate**
-
-☁️ Experience with **AWS, Docker, Jenkins & CI/CD**
-
-💻 Full-stack exposure with **Angular and React**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+<img src="https://skillicons.dev/icons?i=java,sql"/>
 </p>
 
-### ⚙️ Backend
-
+### ⚙️ Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge"/>
 </p>
 
-### 🔐 Security
-
+### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Security-000?style=for-the-badge&logo=springsecurity" />
-  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RBAC-000?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### 🗄️ Database & ORM
-
+### 🔄 Messaging & Streaming
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/JPA-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate" />
-</p>
-
-### 🔄 Messaging & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,redis" />
+<img src="https://skillicons.dev/icons?i=kafka"/>
 </p>
 
 ### ☁️ Cloud & DevOps
-
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,github" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20EC2-000?style=for-the-badge&logo=amazonec2" />
-  <img src="https://img.shields.io/badge/AWS%20RDS-000?style=for-the-badge&logo=amazonrds" />
-  <img src="https://img.shields.io/badge/AWS%20S3-000?style=for-the-badge&logo=amazons3" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Project
 
-## 🏥 JANE Healthcare Management System
+### 🏥 JANE Online Healthcare Management System
 
-**Full-Stack Healthcare | Telemedicine | Appointment Scheduling | EMR**
+🔹 Built using **Microservices Architecture**  
+🔹 Implemented **Concurrency Control (No Double Booking)**  
+🔹 Used **Kafka for async communication**  
+🔹 Designed **Secure REST APIs (JWT Auth, R-BAC)**  
+🔹 Deployed on **AWS (EC2, S3, RDS, IAM, SNS)**  
 
-JANE is a healthcare management platform designed for **patient management, doctor management, appointment scheduling, consultation and electronic medical records (EMR).**
+---
 
-### 🔧 Technologies Used
+## 📊 GitHub Analytics
 
-```text
-Java 17
-Spring Boot 3.5.15
-Spring Security
-JWT Authentication
-Google Authentication / OAuth 2.0
-Role-Based Access Control (RBAC)
-Spring Data JPA
-Hibernate
-MySQL
-REST APIs
-Angular
-Maven
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjib199&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sanjib199&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjib199&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Designed **high-performance backend systems**  
+🏅 Improved system scalability using **Kafka & Async processing**  
+🏅 Strong understanding of **System Design & Distributed Systems**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:sanjibbasak04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/sanjib199">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+<!-- Add LinkedIn if you want -->
+
+  <a href="https://www.linkedin.com/in/sanjib-basak-305a183a7/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+💡 I love building **Scalable Backend Systems** and solving **Real-World problems with clean Architecture**
+
+---
+
+<p align="center">
+🔥 <b>“Code. Scale. Repeat.”</b> 🔥
+</p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanjib199/sanjib199/output/github-contribution-grid-snake.svg" /> 
+</p>                                                   Based on two project of word file, cv edit this git code file. I have to do two project Jane healthcare management system (tech used : Java 17 , Spring boot 3.5.15, Google Auth, JWT based Authentication, Role base access controll frontend: angular) & Food fusion Hub (tech used: Java 17, Spring boot - 3.5.15, Spring security, role based access control, Froentend: React)
