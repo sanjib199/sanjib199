@@ -23,12 +23,14 @@
 
 ## 🧠 About Me
 
-💼 Java Backend Developer with **3+ years of experience**  
-⚡ Specialized in **Java, Spring Boot, Microservices, REST APIs & Distributed Systems**  
-🚀 Built **Low-Latency, Scalable, Production-Ready Systems**  
-🔄 Strong in **Event-Driven Architecture & Message Broker (Kafka)**  
-☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins, CI/CD pipelines**  
-
+💼 Java Backend Developer with **3+ years of experience** in scalable backend engineering  
+⚡ Expertise in **Java 8/17, Spring Boot, Microservices, REST APIs & Spring Security**  
+🏗️ Strong in **System Design, Distributed Systems, Design Patterns & Clean Architecture**  
+🚀 Experienced in building **high-performance, low-latency & fault-tolerant services**  
+🔄 Specialized in **Kafka, Event-Driven Architecture, Async Processing & Distributed Messaging**  
+🗄️ Strong in **MySQL, JPA/Hibernate, Query Optimization, Indexing & Redis Caching**  
+☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins & CI/CD**  
+🛡️ Experienced with **Resilience4j, Circuit Breaker, Observability & Production Troubleshooting**
 
 ---
 
