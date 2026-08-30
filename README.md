@@ -89,7 +89,7 @@
 ---
 
 ## 🏆 Achievements
-🏅 Designed high-performance backend systems<br>
+🏅 **Designed high-performance** backend systems<br>
 🏅 Improved system scalability using Kafka & Async processing<br>
 🏅 Improved database query performance through indexing, normalization, pagination and query optimization.<br>
 🏅 Reduced deployment time by implementing Jenkins CI/CD automation.<br>
