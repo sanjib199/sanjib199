@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Java Backend Developer | Microservices | Spring Boot | REST APIs | Docker | Kubernetes | Jenkins | CI/CD | Kafka | AWS 
+  🚀 Java Backend Developer | Microservices | Spring Boot | REST APIs | Docker | Kubernetes | Jenkins | CI/CD | Kafka | Redis | AWS 
 </h3>
 
 <p align="center">
