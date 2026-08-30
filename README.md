@@ -69,10 +69,10 @@
 ### 🏥 JANE Online Healthcare Management System
 
 🔹 Built using **Microservices Architecture**  
-🔹 Implemented **Concurrency Control (No Double Booking)**  
-🔹 Used **Kafka for async communication**  
-🔹 Designed **Secure REST APIs (JWT Auth, R-BAC)**  
-🔹 Deployed on **AWS (EC2, S3, RDS, IAM, SNS)**  
+🔹 Implemented **Concurrency Control (No Double Booking) Using Presimestic Locking**  
+🔹 Used **Kafka for Async communication**  
+🔹 Designed **Secure REST APIs (JWT Auth, R-BAC, Google-Auth)**  
+🔹 Deployed on **AWS (EC2, S3, RDS, IAM, SNS,Cloud-Watch)**  
 
 ---
 
@@ -124,7 +124,7 @@
 ---
 
 <p align="center">
-🔥 <b>“Code. Scale. Repeat.”</b> 🔥
+🔥 <b>“Design. Build. Scale. Deliver.”</b> 🔥
 </p>
 
 
