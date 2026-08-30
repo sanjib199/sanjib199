@@ -89,12 +89,13 @@
 ---
 
 ## 🏆 Achievements
-🏅 Designed high-performance backend systems<br>
-🏅 Improved system scalability using Kafka & Async processing<br>
-🏅 Improved database query performance through indexing, normalization, pagination and query optimization.<br>
-🏅 Reduced deployment time by implementing Jenkins CI/CD automation.<br>
-🏅 Reduced API response time through MySQL query optimization and Redis caching.<br>
-🏅 Strong understanding of System Design & Distributed Systems.
+🏅 Designed **High-Performance** Backend Systems.<br>
+🏅 Improved System Scalability Using **Kafka & Asynchronous Processing**.<br>
+🏅 Improved Database Query Performance Through **Indexing, Normalization, Pagination & Query Optimization**.<br>
+🏅 Reduced Deployment Time By Implementing **Jenkins, CI/CD Automation**.<br>
+🏅 Reduce API Response Time Through **Query Optimization & Redis Caching**.<br>
+🏅 Understanding of **System Design & Distributed Systems**.
+
 ---
 
 ## 🌐 Connect With Me
