@@ -36,11 +36,9 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java,sql"/>
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=sql"/>
-</p>
+
 
 ### ⚙️ Backend & Architecture
 <p>
