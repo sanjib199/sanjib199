@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Java Backend Developer | Spring Boot | Spring Security | Microservices | REST APIs | Docker | JWT | CI/CD | Kafka | Redis | AWS 
+  🚀 Java Backend Developer | Spring Boot | Spring Security | Microservices | REST APIs | Design Pattern: Singleton, DI, MVC, Builder, SAGA | Docker | JWT | CI/CD | Kafka | Redis | AWS 
 </h3>
 
 <p align="center">
@@ -23,10 +23,10 @@
 
 ## 🧠 About Me
 
-💼 Java Backend Developer with **3.6+ years of experience**  
-⚡ Specialized in **Spring Boot, Microservices & Distributed Systems**  
-🚀 Built **low-latency, scalable, production-grade systems**  
-🔄 Strong in **Event-Driven Architecture (Kafka)**  
+💼 Java Backend Developer with **3+ years of experience**  
+⚡ Specialized in **Java, Spring Boot, Microservices, REST APIs & Distributed Systems**  
+🚀 Built **Low-Latency, Scalable, Production-Ready Systems**  
+🔄 Strong in **Event-Driven Architecture & Message Broker (Kafka)**  
 ☁️ Hands-on with **AWS, Docker, Kubernetes, Jenkins, CI/CD pipelines**  
 
 
@@ -36,7 +36,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,sql"/>
+<img src="https://skillicons.dev/icons?i=java,sql"/> 
 </p>
 
 
@@ -68,11 +68,11 @@
 
 ### 🏥 JANE Online Healthcare Management System
 
-🔹 Built using **Microservices Architecture**  
+🔹 Built using **Microservices ArchitectureGateway, Servie Discovery, Circuit Breaker, Synchronous Pattern- Rest / Open-Feign)**  
 🔹 Implemented **Concurrency Control (No Double Booking) Using Presimestic Locking**  
 🔹 Used **Kafka for Async communication**  
 🔹 Designed **Secure REST APIs (JWT Auth, R-BAC, Google-Auth)**  
-🔹 Deployed on **AWS (EC2, S3, RDS, IAM, SNS,Cloud-Watch)**  
+🔹 Deployed on **AWS (EC2, S3, RDS, IAM, SNS, Cloud-Watch)**  
 
 ---
 
