@@ -26,7 +26,7 @@
 💼 Java Backend Developer on building **secure, scalable, fault-tolerant, and maintainable distributed systems.**
 ⚡ Expertise in **Java 8/17, Spring Boot, Microservices, REST APIs & Spring Security**  
 🏗️ Strong in **System Design, Distributed Systems, Design Patterns & Clean Architecture**  
-🚀 Implemented **service-to-service communication using Feign Client** and scalable request routing using **API Gateway and Eureka service discovery.**
+🚀 Implemented **service-to-service communication using Feign Client** and scalable request routing using **API Gateway and Eureka service discovery**
 🥇 Designed **fault-tolerant microservices using Resilience4j and Circuit Breaker patterns** to improve service reliability and resilience.
 🔄 Specialized in **Kafka, Event-Driven Architecture, Async Processing & Distributed Messaging**  
 🗄️ Database optimizaiton using **Proper indexing, Pagination, N+1 Query Problem, Query Optimization, Indexing & Redis Caching**  
@@ -75,7 +75,6 @@
 🎁**Teck Stack:** Java 17, Spring Boot (V-3.X.X), Microservices, Kafka, Redis, SAGA Pattern, Razor Pay
 
 Design **scalable Payment-Gateway system** using **Java, Spring Boot, Kafka, Redis & Rest APIs** to support real-time money transfer & payment processing.
-
 🔹Develop & integrated **Account, Transaction, Payment, Fraud Detection, Notification & API Gateway microservices**, following distributed microservice architecture with independent database management systems.
 🔹Implemented **Saga Orchestration for distributed transactions, compensation, rollback, refund, and transaction consistency.**
 🔹Implemented **event-driven asynchronous communication using Apache Kafka, enabling Fraud Detection, Notification, and Account services** to consume transaction events and process payment workflows independently.
