@@ -23,15 +23,15 @@
 
 ## 🧠 About Me
 
-💼 Java Backend Developer on building **secure, scalable, fault-tolerant, and maintainable distributed systems.**
-⚡ Expertise in **Java 8/17, Spring Boot, Microservices, REST APIs & Spring Security**  
-🏗️ Strong in **System Design, Distributed Systems, Design Patterns & Clean Architecture**  
-🚀 Implemented **service-to-service communication using Feign Client** and scalable request routing using **API Gateway and Eureka service discovery**
-🥇 Designed **fault-tolerant microservices using Resilience4j and Circuit Breaker patterns** to improve service reliability and resilience.
-🔄 Specialized in **Kafka, Event-Driven Architecture, Async Processing & Distributed Messaging**  
-🗄️ Database optimizaiton using **Proper indexing, Pagination, N+1 Query Problem, Query Optimization, Indexing & Redis Caching**  
-☁️ Hands-on with **AWS(), Docker, Kubernetes, Jenkins & CI/CD**  
-🛡️ Used **Git and GitHub for version control**, feature branching and pull request reviews; participated in **Agile/Scrum** ceremonies and code reviews.
+💼 Java Backend Developer on building **secure, scalable, fault-tolerant, and maintainable distributed systems.** <br>
+⚡ Expertise in **Java 8/17, Spring Boot, Microservices, REST APIs & Spring Security.** <br>
+🏗️ Strong in **System Design, Distributed Systems, Design Patterns & Clean Architecture.** <br>
+🚀 Implemented **service-to-service communication using Feign Client** and scalable request routing using **API Gateway and Eureka service discovery.** <br>
+🥇 Designed **fault-tolerant microservices using Resilience4j and Circuit Breaker patterns** to improve service reliability and resilience. <br>
+🔄 Specialized in **Kafka, Event-Driven Architecture, Async Processing & Distributed Messaging.** <br>  
+🗄️ Database optimizaiton using **Proper indexing, Pagination, N+1 Query Problem, Query Optimization, Indexing & Redis Caching.** <br>  
+☁️ Hands-on with **AWS(), Docker, Kubernetes, Jenkins & CI/CD.** <br>
+🛡️ Used **Git and GitHub for version control**, feature branching and pull request reviews; participated in **Agile/Scrum** ceremonies and code reviews.                                                                                
 
 ---
 
