@@ -74,14 +74,13 @@
 
 🎁**Teck Stack:** Java 17, Spring Boot (V-3.X.X), Microservices, Kafka, Redis, SAGA Pattern, Razor Pay
 
-Design **scalable Payment-Gateway system** using **Java, Spring Boot, Kafka, Redis & Rest APIs** to support real-time money transfer & payment processing.
-🔹Develop & integrated **Account, Transaction, Payment, Fraud Detection, Notification & API Gateway microservices**, following distributed microservice architecture with independent database management systems.
-🔹Implemented **Saga Orchestration for distributed transactions, compensation, rollback, refund, and transaction consistency.**
-🔹Implemented **event-driven asynchronous communication using Apache Kafka, enabling Fraud Detection, Notification, and Account services** to consume transaction events and process payment workflows independently.
-🔹Implemented real-time **fraud detection using Redis caching with velocity, amount, and balance-percentage rules.**
-🔹Implemented **API Gateway rate limiting using Spring Cloud Gateway and Redis, configuring a replenish rate of 10 requests/second with a burst capacity of 20 requests to control excessive requests** and mitigate automated/fraudulent transaction attempts.
-🔹Containerized **Kafka, Zookeeper, and Redis using Docker Compose and performed End-To-End API testing with Postman.**
-
+- Designed a **scalable Payment Gateway system** using **Java, Spring Boot, Kafka, Redis & REST APIs** to support real-time money transfer and payment processing.
+- Developed and integrated **Account, Transaction, Payment, Fraud Detection, Notification & API Gateway microservices**, following a distributed microservice architecture with **independent database management**.
+- Implemented **Saga Orchestration** for distributed transactions, including **compensation, rollback, refund, and transaction consistency**.
+- Implemented **event-driven asynchronous communication using Apache Kafka**, enabling **Fraud Detection, Notification, and Account services** to consume transaction events and process payment workflows independently.
+- Implemented real-time **fraud detection using Redis caching** with **velocity, amount, and balance-percentage rules**.
+- Implemented **API Gateway rate limiting** using **Spring Cloud Gateway and Redis**, configuring a **replenish rate of 10 requests/second** with a **burst capacity of 20 requests** to control excessive requests and mitigate automated/fraudulent transaction attempts.
+- Containerized **Kafka, Zookeeper, and Redis using Docker Compose** and performed **end-to-end API testing using Postman**.
 
 
 
