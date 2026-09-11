@@ -30,7 +30,7 @@
 🥇 Designed **fault-tolerant microservices using Resilience4j and Circuit Breaker patterns** to improve service reliability and resilience. <br>
 🔄 Specialized in **Kafka, Event-Driven Architecture, Async Processing & Distributed Messaging.** <br>  
 🗄️ Database optimizaiton using **Proper indexing, Pagination, N+1 Query Problem, Query Optimization, Indexing & Redis Caching.** <br>  
-☁️ Hands-on with **AWS(), Docker, Kubernetes, Jenkins & CI/CD.** <br>
+☁️ Hands-on with **AWS(EC2, S3, RDS, SNS, IAM, Cloud Watch), Docker, Kubernetes, Jenkins & CI/CD.** <br>
 🛡️ Used **Git and GitHub for version control**, feature branching and pull request reviews; participated in **Agile/Scrum** ceremonies and code reviews.                                                                                
 
 ---
