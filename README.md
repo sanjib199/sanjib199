@@ -90,14 +90,17 @@
 ### 🥇Project Name: JANE Healthcare Management System: - (Cloud Based Project) 🥇
 
 🎁**Tech Stack:** Java 17, Spring Boot, Spring MVC, Spring Security, Hibernate, Microservices, REST APIs, Kafka, MySQL, AWS, API Gateway, Feign Client, Eureka, Resilience4j, Redis
-- Designed a **scalable Payment Gateway system** using **Java, Spring Boot, Kafka, Redis & REST APIs** to support real-time money transfer and payment processing.
-- Developed and integrated **Account, Transaction, Payment, Fraud Detection, Notification & API Gateway microservices**, following a distributed microservice architecture with **independent database management**.
-- Implemented **Saga Orchestration** for distributed transactions, including **compensation, rollback, refund, and transaction consistency**.
-- Implemented **event-driven asynchronous communication using Apache Kafka**, enabling **Fraud Detection, Notification, and Account services** to consume transaction events and process payment workflows independently.
-- Implemented real-time **fraud detection using Redis caching** with **velocity, amount, and balance-percentage rules**.
-- Implemented **API Gateway rate limiting** using **Spring Cloud Gateway and Redis**, configuring a **replenish rate of 10 requests/second** with a **burst capacity of 20 requests** to control excessive requests and mitigate automated/fraudulent transaction attempts.
-- Containerized **Kafka, Zookeeper, and Redis using Docker Compose** and performed **end-to-end API testing using Postman**.
 
+- Developed a cloud-based Healthcare Management Platform using **Java 17, Spring Boot, Spring MVC & Microservices** to support Patient, Doctor, Appointment, Consultation & Notification management.
+- Designed and integrated **scalable RESTful APIs** for patient registration, doctor management, appointment scheduling and consultation workflows, following distributed microservice architecture.
+- Implemented secure **JWT-based Authentication & Authorization using Spring Security and RBAC, with stateless** security for protecting backend APIs and role-based access control.
+- Implemented **concurrent appointment booking using @Transactional transaction management and concurrency control, ensuring data consistency and preventing duplicate** slot bookings.
+- Implemented **event-driven asynchronous communication using Apache Kafka, enabling decoupled notification** processing and reliable email/messaging workflows.
+- Integrated **Spring Cloud API Gateway, Eureka Service Discovery & OpenFeign for API routing, service discovery and inter-service communication** across distributed microservices.
+- Implemented **Resilience4j Circuit Breaker with fallback mechanisms** to handle service failures, prevent cascading failures and improve system fault tolerance.
+- Optimized application performance using **Redis caching, MySQL query optimization, database indexing and JPA/Hibernate tuning, improving API response time and reducing database load.**
+- Implemented **centralized exception handling using @ControllerAdvice, @ExceptionHandler and custom exceptions** with standardized API error responses.
+- Configured and deployed microservices on **AWS(EC2, S3, RDS, SNS, IAM, Cloud Watch)** with environment-specific configurations and implemented Jenkins CI/CD pipelines for automated build, testing and deployment.
 ---
 
 ## 📊 GitHub Analytics
