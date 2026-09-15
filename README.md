@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Microservices+Expert;AWS+Cloud+Engineer;Kafka+Event-Driven+Architect;3.5%2B+Years+Experience&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Microservices+Expert;AWS+Cloud+Engineer;Kafka+Event-Driven+Architect;4+%2B+Years+Experience&center=true&width=500&height=50">
 </p>
 
 
